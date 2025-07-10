@@ -35,15 +35,6 @@ I built this to practice basic Java concepts like conditionals, input handling, 
    ```bash
    java StudentGradeCalculator
    ```
-Enter Student Name: Rahul
-Enter marks in Math: 85
-Enter marks in Science: 78
-Enter marks in English: 92
 
---- Result ---
-Name: Rahul
-Total Marks: 255
-Percentage: 85.0%
-Grade: B
 
 This project was created as part of my personal learning journey in Java. It helped me revise basic syntax, control structures, and user input in Java. I may enhance it in the future with features like storing multiple student records or adding a GUI using JavaFX or Swing.
